@@ -3,6 +3,7 @@
 
 ## Explanation
 Wired Control Cabinet + Instrumentation
+
 ![Image of Instrumentation](https://github.com/henthornlab/ProcessAnalytics/blob/b71e1b6c55e7ad4b40741212747333ed38c1e591/2025-install/IMG_8223.jpeg)
 ![Image of Students Working on Control Cabinet](https://github.com/henthornlab/ProcessAnalytics/blob/b71e1b6c55e7ad4b40741212747333ed38c1e591/2025-install/IMG_8269.jpeg)
 ![Image of Components for Control Cabinet including RTD in top left](https://github.com/henthornlab/ProcessAnalytics/blob/master/2025-install/IMG_8216.jpeg?raw=true)
